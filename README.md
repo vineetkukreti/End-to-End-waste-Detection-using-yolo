@@ -1,6 +1,5 @@
 # End-to-end-Waste-Detection-Using-Yolo-v5
 
-Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 
 ## Workflows
 
@@ -17,7 +16,7 @@ Implementation video: https://youtu.be/cr17R0fyVXc?si=DXGcm90BoeZwgCU5
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-waste-detection
+https://github.com/vineetkukreti/End-to-End-waste-Detection-using-yolo
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
