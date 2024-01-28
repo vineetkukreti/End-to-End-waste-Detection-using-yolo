@@ -1,13 +1,15 @@
 # import sys,os
 from wasteDetection.pipeline.training_pipeline import TrainPipeline
+
+
 # from wasteDetection.utils.main_utils import decodeImage, encodeImageIntoBase64
 # from flask import Flask, request, jsonify, render_template,Response
 # from flask_cors import CORS, cross_origin
 # from wasteDetection.constant.application import APP_HOST, APP_PORT
 
 
-obj = TrainPipeline()
-obj.run_pipeline()
+###obj = TrainPipeline()
+###obj.run_pipeline()
 
 
 # app = Flask(__name__)
